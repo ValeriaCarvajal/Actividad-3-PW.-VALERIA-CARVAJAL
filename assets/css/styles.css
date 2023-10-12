@@ -1,0 +1,76 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: century gothic;
+}
+
+body {
+    background: rgb(236, 236, 244);
+    background: linear-gradient(rgb(217, 222, 234) 50%);
+    background-attachment: fixed;
+}
+
+h1 {
+    padding-top: 1%;
+    color: rgb(192, 88, 229);
+}
+
+hr {
+    color: rgb(231, 125, 201);
+}
+
+/* forms */
+form {
+    color: rgb(23, 24, 24);
+}
+
+form,
+tbody {
+    color: rgb(23, 24, 24);
+}
+
+form,
+thead {
+    color: rgb(23, 24, 24);
+}
+
+form,
+a {
+    text-decoration: none;
+    color: rgb(23, 24, 24);
+}
+
+form,
+a:hover {
+    text-decoration: none;
+    color: rgb(23, 24, 24);
+}
+
+/* msg */
+#negrita {
+    color: rgb(23, 24, 24);
+}
+
+/* area de texto de archivo */
+textarea {
+    color: rgb(23, 24, 24) !important;
+    resize: none;
+}
+
+/* cards */
+#card {
+    border-radius: 10px;
+}
+
+#card, p{
+    color: rgb(23, 24, 24);
+}
+
+#card img{
+    width: 60px;
+    margin: auto;
+}
+
+#card h5{
+    padding-top: 10px;
+}
